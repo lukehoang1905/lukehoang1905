@@ -3,7 +3,10 @@
 - 💞️ I found coding during the first covid and in love since.
 - 👀 Gigs around the world in React, Node with TS/JS. 
 - 📫 mailto: lukehoang195@gmail.com
-- 🚀 've used : TypeScript NextJs ReactJs ReactNative NodeJs MongoDb Socket.io FramerMotion MUI AntDesign D3 Chart StyledComponent Sass
+- 🚀 've used : 
+- -    TypeScript NextJs ReactJs ReactNative NodeJs MongoDb Socket.io 
+- -    FramerMotion MUI AntDesign D3 Chart StyledComponent Sass 
+- - yaml Docker Kubernetes
 - 🔜 tobe learn : Solidify Rust ReactVR ChakraUI MetaMask anyThing
 <!---
 lukehoang1905/lukehoang1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
